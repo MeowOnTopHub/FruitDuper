@@ -36,7 +36,7 @@ repeat task.wait() until game:IsLoaded()
 
 loadstring(game:HttpGet(
 
- "loadstring(game:HttpGet("https://raw.githubusercontent.com/MeowOnTopHub/Dupe/refs/heads/main/Meow"))()"
+ "https://raw.githubusercontent.com/MeowOnTopHub/Dupe/refs/heads/main/Meow"
 
 ))()
 
@@ -242,7 +242,7 @@ end
 
 loadstring(game:HttpGet(
 
- "loadstring(game:HttpGet("https://raw.githubusercontent.com/MeowOnTopHub/Dupe/refs/heads/main/Meow"))()"
+ "https://raw.githubusercontent.com/MeowOnTopHub/Dupe/refs/heads/main/Meow"
 
 ))()
 
